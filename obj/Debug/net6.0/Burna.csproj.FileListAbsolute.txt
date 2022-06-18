@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Burna\bin\Debug\net6.0\Burna.exe
+C:\Users\HP\Desktop\Burna\bin\Debug\net6.0\Burna.deps.json
+C:\Users\HP\Desktop\Burna\bin\Debug\net6.0\Burna.runtimeconfig.json
+C:\Users\HP\Desktop\Burna\bin\Debug\net6.0\Burna.dll
+C:\Users\HP\Desktop\Burna\bin\Debug\net6.0\Burna.pdb
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.AssemblyInfo.cs
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.dll
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\refint\Burna.dll
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.pdb
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\Burna.genruntimeconfig.cache
+C:\Users\HP\Desktop\Burna\obj\Debug\net6.0\ref\Burna.dll
